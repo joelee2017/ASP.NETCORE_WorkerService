@@ -1,0 +1,6 @@
+{
+  "AAACronJob": {
+    "CronExpression": "* * * * *",
+    "Enable": true
+  }
+}

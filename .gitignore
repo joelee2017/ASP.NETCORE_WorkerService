@@ -2,3 +2,17 @@
 HostedServiceComponent/HostedServiceComponent/obj/
 
 HostedServiceComponent/.vs/HostedServiceComponent/DesignTimeBuild/
+
+HostedServiceComponent/.vs/
+
+HostedServiceComponent/HostedServiceComponent/bin/
+
+HostedServiceComponent/TestApiCronJob/bin/
+
+HostedServiceComponent/TestApiCronJob/obj/
+
+HostedServiceComponent/TestCronJobService/obj/
+
+HostedServiceComponent/TestCronJob/bin/
+
+HostedServiceComponent/TestCronJob/obj/

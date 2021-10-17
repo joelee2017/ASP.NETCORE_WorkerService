@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Remove="conJob.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="conJob.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HostedServiceComponent\HostedServiceComponent.csproj" />
+  </ItemGroup>
+
+
+</Project>
